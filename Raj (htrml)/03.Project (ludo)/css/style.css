@@ -1,0 +1,104 @@
+.outerbox{
+    height: 630px;
+    width: 630px;
+    background-color: rgb(132, 133, 133);
+    margin: auto;
+    border: solid 2px black;
+
+}
+.row{
+    height: 40px;
+    width: 630px;
+    background-color: rgb(209, 139, 139);
+    
+}
+.redbox{
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    float: left;
+    border: solid 1px red;
+}
+.whitebox{
+     height: 40px;
+    width: 40px;
+    background-color: white;
+    float: left;
+    border: solid 1px black;
+}
+.greenbox{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    float: left;
+    border: solid 1px green;
+
+}
+.green{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    float: left;
+    border: solid 1px black;
+
+}
+.white{
+     height: 40px;
+    width: 40px;
+    background-color: white;
+    float: left;
+    border: solid 1px white;
+}
+.red{
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    float: left;
+    border: solid 1px black;
+
+}
+.yellow{
+    height: 40px;
+    width: 40px;
+    background-color: yellow;
+    float: left;
+    border: solid 1px black;
+
+}
+.yellowbox{
+    height: 40px;
+    width: 40px;
+    background-color: yellow;
+    float: left;
+    border: solid 1px yellow;
+
+}
+.bluebox{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    float: left;
+    border: solid 1px blue;
+
+}
+.blue{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+    float: left;
+    border: solid 1px black;
+
+}
+.redin{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    border: solid 1px red;
+    
+}
+.whiteo{
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border: solid 1px white;
+}
