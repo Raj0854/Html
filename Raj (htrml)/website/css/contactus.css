@@ -115,9 +115,120 @@ a{
     color: #c0ae5f;
     font-size: 35px;
 }
-
-    
-
 .b3_txt1{
     color: #dfdedb;
+}
+.main{
+    width: 1200px;
+    height: 600px;
+    background-color: #0cffe34f;
+    border: solid 1px black;
+    margin: auto;
+    
+    border-radius: 20px;
+    margin-top: 15px;
+    padding-top: 10px;
+
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+.Note{
+    width: 400px;
+    height: 500px;
+    border: solid 3px #ffffff;
+    margin: 40px;
+    border-radius: 20px;
+    float: left;
+}
+.note_text{
+    color: #ffffff;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+}
+h2{
+    color: #c0ae5f;
+    text-align: center;
+    margin-top: 20px;
+}
+h3{
+    color: #000000;
+    text-align: center;
+}
+.form{
+    width: 600px;
+    height: 500px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin: 40px;
+    border: 1px solid #000000;
+}
+label{
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.form-control{
+    width: 500px;
+    height: 30px;
+    margin: 10px 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #191919;
+}
+.form-control1{
+    width: 200px;
+    height: 30px;
+    margin: 10px 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #191919;
+}
+.name{
+    margin-left: 160px;
+
+}
+.button{
+    background-color: #0cffe34f;
+    border-radius: 50px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 10px 20px;
+    border: solid 3px #c0ae5f;
+    
+}
+.button:hover{
+    background-color: #c0ae5f;
+    color: #000000;
+    border: solid 3px #0cffe34f;
+}
+.footer{
+    background-color: grey;
+    color: #191919;
+    text-align: center;
+    padding: 20px 0;
+    margin: 20px auto 0;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.footer1{
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.footer2{
+    text-align: right;
+    margin-bottom: 10px;
+    margin-right: 30px;
 }

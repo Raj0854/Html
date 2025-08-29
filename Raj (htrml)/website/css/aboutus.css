@@ -231,5 +231,26 @@ a{
     margin-top: 20px;
 }
 .mission_image{
-    margin-left: 40px;
+    margin-left:    40px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.footer{
+    background-color: grey;
+    color: #191919;
+    text-align: center;
+    padding: 20px 0;
+    margin: 20px auto 0;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.footer1{
+    text-align: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.footer2{
+    text-align: right;
+    margin-bottom: 10px;
+    margin-right: 30px;
 }
