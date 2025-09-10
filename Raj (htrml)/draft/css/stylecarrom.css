@@ -1,0 +1,67 @@
+.board{
+    height: 600px;
+    width: 600px;
+    background-color: black;
+    position: relative;
+    margin: auto;
+}
+.pocket {
+    position: absolute;
+}
+.top-left {
+    top: 0;
+    left: 0;
+}
+.top-right {
+    top: 0;
+    right: 0;
+}
+.bottom-left {
+    bottom: 0;
+    left: 0;
+}
+.bottom-right {
+    bottom: 0;
+    right: 0;
+}
+.center {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.circle {
+    height: 40px;
+    width: 40px;
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 50%;
+    margin: auto;
+}
+.striker {
+    position: absolute;
+    background-color: brown;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.carrom-coin {
+    position: absolute;
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.inner-board {
+    padding: 20px;
+    background-color: bisque;
+    border: solid 54px black;
+    position: relative;
+    height: 450px;
+}
