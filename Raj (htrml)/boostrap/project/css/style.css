@@ -1,0 +1,15 @@
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: italic;
+}
+.bg{
+    background-color: #fa5959 !important;
+}
+.head1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    color: white !important;
+    margin-left: 10px;
+}
